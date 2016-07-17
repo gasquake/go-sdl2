@@ -1,6 +1,6 @@
 package sdl
 
-// #include "sdl_wrapper.h"
+#include "sdl_wrapper.h"
 import "C"
 import (
 	"reflect"
